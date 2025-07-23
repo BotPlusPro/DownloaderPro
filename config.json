@@ -1,6 +1,6 @@
 {
-  "version": "0.1.1-beta",
-  "active": true,
-  "message": "نسخه جدید با بهبودهای مهم منتشر شده است.",
-  "download_url": "https://github.com/BotPlusPro/DownloaderPro/releases/latest/download/DownloaderAppSetup.exe"
+  "version": "1.0.1",
+  "active": false,
+  "message": "این نسخه از نرم‌افزار غیرفعال شده است. لطفاً نسخه جدید را از سایت دانلود کنید.",
+  "download_url": "https://github.com/rezah00/my-app/releases/latest/download/DownloaderAppSetup.exe"
 }
