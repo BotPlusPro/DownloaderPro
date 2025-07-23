@@ -1,6 +1,6 @@
 {
   "version": "0.1.0-beta",
-  "active": true,
+  "active": false,
   "message": "نسخه جدید با بهبودهای مهم منتشر شده است.",
   "download_url": "https://github.com/rezah00/my-app/releases/latest/download/DownloaderAppSetup.exe"
 }
